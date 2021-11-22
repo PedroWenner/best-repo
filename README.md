@@ -1,2 +1,9 @@
 # best-repo
-# training test #asdasd
+<<<<<<< HEAD
+# training test
+=======
+# training test
+# training test
+# training test
+# training test
+>>>>>>> origin/main
